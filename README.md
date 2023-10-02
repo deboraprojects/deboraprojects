@@ -1,16 +1,55 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img  src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+eu+Sou+Débora+Miranda!;Bem-vindo(a)+ao+meu+perfil!&center=true&size=20">
+  </a>
+</h1>
 
-<!--
-**deboraprojects/deboraprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 💻 Explorando: C#, Java, Python e SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Debs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Debs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Debs-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="mailto:debsmiranda46@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:" alt="Gmail Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/d%C3%A9bora-miranda-772340191/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a> 
+</div>
+
+---
+
+<h2 align="center">Sobre Mim</h2>
+
+- 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 📚 Apaixonada por programação e desenvolvimento de software
+- 🌟 Buscando aprender novas tecnologias e expandir meu conhecimento
+
+---
+
+
+<h2 align="center">Linguagens, Frameworks e Ferramentas 🔥</h2>
+<br />
+<p align="center">
+  <img width=50 src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ 
+</p>
+
+
+
