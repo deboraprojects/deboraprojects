@@ -41,7 +41,7 @@
 ---
 
 
-<h2 align="center">Linguagens, Frameworks e Ferramentas 🔥</h2>
+<h2 align="center">Linguagens e Ferramentas 🔥</h2>
 <br />
 <p align="center">
   <img width=50 src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />
