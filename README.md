@@ -55,5 +55,17 @@
  
 </p>
 
+<hr>
+<h2 align="center"> Minhas estatísticas ✨</h2>
+<br />
+<p align="center">
+   <p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=deboraprojects&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> 
+    <img height="137em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraprojects&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />
+    </p>
+   
+</details>
+<hr>
+
 
 
